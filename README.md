@@ -1,7 +1,7 @@
 # LeetCode-Exercises
 Here are all my solved LeetCode exercises
 
-1. The LeetCode Beginner's Guide
+# The LeetCode Beginner's Guide
 
     2235. Add Two Integers
     2236. Root Equals Sum of Children
