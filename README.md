@@ -16,3 +16,4 @@ Here are all my solved LeetCode exercises
 #   
 - [9. Palindrome Number](9.dart)
 - [121. Best Time to Buy and Sell Stock](121.dart)
+- [20. Valid Parentheses](20.dart)
