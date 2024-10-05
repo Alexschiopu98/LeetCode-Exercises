@@ -18,3 +18,4 @@ Here are all my solved LeetCode exercises
 - [121. Best Time to Buy and Sell Stock](121.dart)
 - [20. Valid Parentheses](20.dart)
 - [21. Merge Two Sorted Lists](21.dart)
+- [442. Find All Duplicates in an Array](442.dart)
